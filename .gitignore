@@ -1,3 +1,5 @@
 analysis_env/
-Figure_1-reporter/all_flow_samples/*
-Figure_1-reporter/Figure_1_data/*
+all_data/*
+Figure_1-reporter/Figure_1_exports/*
+Figure_1-reporter/.ipynb_checkpoints/
+
