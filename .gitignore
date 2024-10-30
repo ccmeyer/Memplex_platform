@@ -4,4 +4,8 @@ Figure_1-reporter/Figure_1_exports/*
 Figure_1-reporter/.ipynb_checkpoints/
 Figure_2-initial_screen/Figure_2_exports/*
 Figure_2-initial_screen/.ipynb_checkpoints/
+Figure_3-active_learning/Figure_3_exports/*
+Figure_3-active_learning/.ipynb_checkpoints/
+Figure_4-reaction_clustering/Figure_4_exports/*
+Figure_4-reaction_clustering/.ipynb_checkpoints/
 *.code-workspace
