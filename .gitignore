@@ -2,4 +2,6 @@ analysis_env/
 all_data/*
 Figure_1-reporter/Figure_1_exports/*
 Figure_1-reporter/.ipynb_checkpoints/
-
+Figure_2-initial_screen/Figure_2_exports/*
+Figure_2-initial_screen/.ipynb_checkpoints/
+*.code-workspace
