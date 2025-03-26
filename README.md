@@ -6,7 +6,7 @@ This repository contains all code associated with the Memplex platform
 
 Before you can run the code for the Memplex platform, make sure you have the following software installed:
 
-- [Python](https://www.python.org/downloads/): Python is a programming language used by the LabCraft Printer project.
+- [Python](https://www.python.org/downloads/): Python is a programming language used by the Memplex project.
 
 ## Getting Started - Python
 
@@ -52,4 +52,8 @@ To get started with the Memplex platform, follow these steps:
 
 
 ## Organization of the repository
-This repository contains all the code required to recreate all the figures of the manuscript along with the code to implement the active learning reaction selection. All the data is available in the supplementary files of the manuscript located here: _______. This data file must be downloaded, extracted, and added to the `all_data` directory. The code will search this folder for the required files to complete the analysis.
+This repository contains all the code required to recreate all the figures of the manuscript along with the code to implement the active learning reaction selection. All the data is available through Zenodo at the DOI: 10.5281/zenodo.15086208. The data file will download as a ZIP file and must be extracted. Once extracted add all the directories to the `all_data` directory. The code will search this folder for the required files to complete the analysis.
+
+## Citation
+If you use this code or data in your research, please cite:
+**Conary Meyer and Alessandra Arizzi, et al.** *Designer artificial environments for membrane protein synthesis.* Nature Communications, 2025. [DOI coming soon]
